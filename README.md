@@ -17,6 +17,10 @@ This is a command- line application to manage a company's employee database. Thi
 
 
 
+https://github.com/aydenemateo/Employee-Tracker/assets/126718436/c4357522-2de7-4c3b-9891-2a0cc71b877f
+
+
+
 ## Technologies-Used
 
 * Inquirer
