@@ -25,7 +25,7 @@ https://github.com/aydenemateo/Employee-Tracker/assets/126718436/c4357522-2de7-4
 
 * Inquirer
 * Node.js
-* MySqlu
+* MySql
 
 ## Installation
 
